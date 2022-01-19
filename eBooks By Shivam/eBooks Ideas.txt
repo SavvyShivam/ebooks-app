@@ -1,0 +1,4 @@
+new tab ---  CSE(Resources) 
+new drive folder for CSE(Resources) under eBooks
+
+. make pdf using ms docs with copyright sign as shivam kumar
